@@ -39,7 +39,7 @@ Password: (the password you set)
 
 **Notes for Reviewer** (paste this):
 ```
-DietLens is a nutrition tracker. Core features (manual logging, barcode scan, and barcode-based food rating) work without an account and offline.
+DietLense is a nutrition tracker. Core features (manual logging, barcode scan, and barcode-based food rating) work without an account and offline.
 
 AI features (photo meal scan, nutrition-label scan, AI food rating, describe-a-meal) send the image or text to our backend and then to OpenAI to estimate nutrition. These require a network connection.
 
